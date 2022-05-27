@@ -1,5 +1,6 @@
 /**
- * @complexity (O(N^2))
+ * @complexityTime (O(N^2))
+ * @ComplexitySpace (O(1))
  */
 let SelectingSort = (arr) =>{
     let min_index = 0 ;
