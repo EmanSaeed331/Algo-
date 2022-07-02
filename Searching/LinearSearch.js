@@ -13,6 +13,8 @@ let LinearSearch =  (arr , target  ) =>{
 }
 // Failure Case 
 console.log(LinearSearch([1,2,4,6,8] , 7))
+console.log(LinearSearch([1,2,4,6,8] , 7))
+
 
 // Success case
 console.log(LinearSearch([1,2,4,0,8] , 1))
